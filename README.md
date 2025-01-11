@@ -1,7 +1,3 @@
-Here's the README with the appropriate markdown syntax for the headings:
-
----
-
 # 🎤 Live Subtitles App 🎤
 
 Welcome to **Live Subtitles**, an interactive and real-time speech-to-text web application built with **React**! With this app, you can convert your speech into live subtitles, select languages for translation, and save the transcript as a text file!

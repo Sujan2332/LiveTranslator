@@ -51,9 +51,13 @@
 ## *🔧 How It Works*
 
 *- The **SpeechRecognition API** listens to your voice through the browser.*
+
 *- The recognized speech is displayed as **real-time subtitles**.*
+
 *- You can select your preferred language from a list, and the text will be translated accordingly.*
+
 *- Press the **microphone** icon to start or stop listening.*
+
 *- Clear the transcript at any time or save it for later.*
 
 ## *🌐 Language Support*
@@ -99,6 +103,6 @@
 
 *6. Create a pull request*
 
-*## 💬 Feedback*
+## *💬 Feedback*
 
 *If you have any feedback or feature requests, feel free to open an issue or reach out. We’d love to hear from you!*

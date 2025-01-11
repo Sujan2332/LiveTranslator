@@ -48,7 +48,7 @@
 
 *5. Open your browser and visit `http://localhost:3000` to experience live speech recognition!*
 
-*## 🔧 How It Works*
+## *🔧 How It Works*
 
 *- The **SpeechRecognition API** listens to your voice through the browser.*
 *- The recognized speech is displayed as **real-time subtitles**.*
@@ -56,7 +56,7 @@
 *- Press the **microphone** icon to start or stop listening.*
 *- Clear the transcript at any time or save it for later.*
 
-*## 🌐 Language Support*
+## *🌐 Language Support*
 
 *The app supports a variety of languages including but not limited to:*
 
@@ -69,29 +69,34 @@
 - Arabic (ar-SA)
 - … and many more!
 
-*## 💾 Save Your Transcript*
+## *💾 Save Your Transcript*
 
 *After transcribing your speech, you can click the **Save Transcript** button to download the transcript as a `.txt` file. It’s a quick way to save your spoken words for later!*
 
-*## 🎨 Design*
+## *🎨 Design*
 
 *The app comes with a clean, minimalist design that makes speech recognition easy and fun! Choose your language, toggle the microphone to start listening, and watch as your words are converted into text in real-time.*
 
-*## 🛠️ Technologies Used*
+## *🛠️ Technologies Used*
 
 *- **React.js** for building the UI*
 *- **Web Speech API** for speech-to-text functionality*
 *- **CSS** for styling and responsive design*
 
-*## 🤝 Contributing*
+## *🤝 Contributing*
 
 *We welcome contributions to improve the **Live Subtitles** app! To get started:*
 
 *1. Fork the repository*
+
 *2. Create a new branch (`git checkout -b feature-xyz`)*
+
 *3. Make your changes*
+
 *4. Commit your changes (`git commit -am 'Add new feature'`)*
+
 *5. Push to the branch (`git push origin feature-xyz`)*
+
 *6. Create a pull request*
 
 *## 💬 Feedback*

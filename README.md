@@ -9,13 +9,13 @@
 
 ## *🌟 Features 🌟*
 
-*- **Real-time Speech-to-Text**: Speak into your microphone, and see your words instantly transcribed into text.*
+- ***Real-time Speech-to-Text**: Speak into your microphone, and see your words instantly transcribed into text.*
 
-*- **Multi-Language Support**: Choose from a variety of languages, including English, Spanish, French, Hindi, and more! Translation of your speech is shown immediately.*
+- ***Multi-Language Support**: Choose from a variety of languages, including English, Spanish, French, Hindi, and more! Translation of your speech is shown immediately.*
 
-*- **Transcript Saving**: You can download your transcribed text as a `.txt` file for future reference.*
+- ***Transcript Saving**: You can download your transcribed text as a `.txt` file for future reference.*
 
-*- **Speech Recognition Powered by Web APIs**: Using **Web Speech API** for continuous and accurate speech recognition.*
+- ***Speech Recognition Powered by Web APIs**: Using **Web Speech API** for continuous and accurate speech recognition.*
 
 ## *🚀 Installation*
 

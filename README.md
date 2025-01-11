@@ -2,6 +2,12 @@
 
 Welcome to **Live Subtitles**, an interactive and real-time speech-to-text web application built with **React**! With this app, you can convert your speech into live subtitles, select languages for translation, and save the transcript as a text file!
 
+## 🔥 Demo
+
+> **Check out the live demo!** See how accurate and fast the speech recognition is.
+> 
+https://sujan2332.github.io/SpeechToText/
+
 ## 🌟 Features 🌟
 
 - **Real-time Speech-to-Text**: Speak into your microphone, and see your words instantly transcribed into text.
@@ -64,12 +70,6 @@ The app supports a variety of languages including but not limited to:
 ## 💾 Save Your Transcript
 
 After transcribing your speech, you can click the **Save Transcript** button to download the transcript as a `.txt` file. It’s a quick way to save your spoken words for later!
-
-## 🔥 Demo
-
-https://sujan2332.github.io/SpeechToText/
-
-> **Check out the live demo!** See how accurate and fast the speech recognition is.
 
 ## 🎨 Design
 
